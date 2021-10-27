@@ -149,16 +149,6 @@
       "isreceivenewsletter": true,
       "id": 1,
       "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXNzd29yZCI6ImFiY2RAMTIzIiwiaWF0IjoxNjM0MDI1MjE2LCJleHAiOjE2MzQwMjg4MTZ9.Ik5gvdz0sIN2vI6wHNSCepk9aEUs7oHtnEx-uqBV18A"
-    },
-    {
-      "user": "mukilan",
-      "email": "mukilan@email.com",
-      "Orgtype": "Private",
-      "password": "123456789",
-      "isreceivenewsletter": false,
-      "isproflesstored": false,
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXNzd29yZCI6ImFiY2RAMTIzIiwiaWF0IjoxNjM0MDI1MjE2LCJleHAiOjE2MzQwMjg4MTZ9.Ik5gvdz0sIN2vI6wHNSCepk9aEUs7oHtnEx-uqBV18A",
-      "id": 9
     }
   ],
   "resources": [
@@ -199,7 +189,7 @@
   "Categories": [
     {
       "id": 1,
-      "avatar": "data:image/gif;base64,R0lGODdhMAAwAPAAAAAAAP///ywAAAAAMAAw AAAC8IyPqcvt3wCcDkiLc7C0qwyGHhSWpjQu5yqmCYsapyuvUUlvONmOZtfzgFz ByTB10QgxOR0TqBQejhRNzOfkVJ+5YiUqrXF5Y5lKh/DeuNcP5yLWGsEbtLiOSp a/TPg7JpJHxyendzWTBfX0cxOnKPjgBzi4diinWGdkF8kjdfnycQZXZeYGejmJl ZeGl9i2icVqaNVailT6F5iJ90m6mvuTS4OK05M0vDk0Q4XUtwvKOzrcd3iq9uis F81M1OIcR7lEewwcLp7tuNNkM3uNna3F2JQFo97Vriy/Xl4/f1cf5VWzXyym7PH hhx4dbgYKAAA7",
+      "avatar": "",
       "categorylist": [
         {
           "id": 1,
@@ -218,7 +208,7 @@
     },
     {
       "id": 2,
-      "avatar": "data:image/gif;base64,R0lGODdhMAAwAPAAAAAAAP///ywAAAAAMAAw AAAC8IyPqcvt3wCcDkiLc7C0qwyGHhSWpjQu5yqmCYsapyuvUUlvONmOZtfzgFz ByTB10QgxOR0TqBQejhRNzOfkVJ+5YiUqrXF5Y5lKh/DeuNcP5yLWGsEbtLiOSp a/TPg7JpJHxyendzWTBfX0cxOnKPjgBzi4diinWGdkF8kjdfnycQZXZeYGejmJl ZeGl9i2icVqaNVailT6F5iJ90m6mvuTS4OK05M0vDk0Q4XUtwvKOzrcd3iq9uis F81M1OIcR7lEewwcLp7tuNNkM3uNna3F2JQFo97Vriy/Xl4/f1cf5VWzXyym7PH hhx4dbgYKAAA7",
+      "avatar": "",
       "categorylist": [
         {
           "id": 1,
@@ -233,7 +223,7 @@
     },
     {
       "id": 3,
-      "avatar": "data:image/gif;base64,R0lGODdhMAAwAPAAAAAAAP///ywAAAAAMAAw AAAC8IyPqcvt3wCcDkiLc7C0qwyGHhSWpjQu5yqmCYsapyuvUUlvONmOZtfzgFz ByTB10QgxOR0TqBQejhRNzOfkVJ+5YiUqrXF5Y5lKh/DeuNcP5yLWGsEbtLiOSp a/TPg7JpJHxyendzWTBfX0cxOnKPjgBzi4diinWGdkF8kjdfnycQZXZeYGejmJl ZeGl9i2icVqaNVailT6F5iJ90m6mvuTS4OK05M0vDk0Q4XUtwvKOzrcd3iq9uis F81M1OIcR7lEewwcLp7tuNNkM3uNna3F2JQFo97Vriy/Xl4/f1cf5VWzXyym7PH hhx4dbgYKAAA7",
+      "avatar": "",
       "categorylist": [
         {
           "id": 1,
@@ -251,12 +241,12 @@
     {
       "id": 1,
       "technology": "VODER Technology",
-      "Content": "Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document. To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries."
+      "Content": "Video provides a powerful way to help you prove your point. "
     },
     {
       "id": 2,
       "technology": "Solar Technology",
-      "Content": "Themes and styles also help keep your document coordinated. When you click Design and choose a new Theme, the pictures, charts, and SmartArt graphics change to match your new theme. When you apply styles, your headings change to match the new theme."
+      "Content": "Themes and styles also help keep your document coordinated. When you click Design and choose a new Theme,"
     }
   ],
   "Location": [
@@ -288,46 +278,6 @@
     }
   ],
   "Projects": [
-    {
-      "Title": "mukil prject rock modified 28",
-      "user": "rock",
-      "analysislevel": "HT feeder",
-      "technology": "Solar",
-      "substationname": "sub1",
-      "pincode": "1",
-      "feedername": "feeder 1",
-      "feedertype": "Overhead",
-      "feedervoltage": "22 kv",
-      "feederlength": "2",
-      "sanctionedload": "4",
-      "changeinloadyearly": "23",
-      "conductiortype": "Wheasel",
-      "resistance": "23",
-      "carryingcapacitypeak": "43",
-      "Solarcapacity": "56",
-      "Solarinterconnectionlocation": "Middle",
-      "invertercapacitystorage": "77",
-      "storagecapacity": "55",
-      "storageinterconnectionlocation": "Tail end",
-      "storagechargingdischargingstrategy": "During lowest/highest feeder load hours",
-      "avgtransmissionlosses": "34",
-      "analysisperiod": "55",
-      "upperlimitforcapacityupgradation": "66",
-      "loadshiftedafterupgradation": "33",
-      "transmissioncapacitycost": "222",
-      "generationcapacitycost": "1333",
-      "costofcorbon": "4567",
-      "costofno2": "5656",
-      "cosofso2": "556",
-      "costofpm2_5": "867",
-      "Status": false,
-      "published": true,
-      "State": "Pondicherry",
-      "avatar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA6CAYAAADspTpvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAH7SURBVGhD7ZprT8IwFIa7oQMxcgdvgIT4/3+RwoBPylWRiXEbUnI0Esdl6zlzW/t84W0gzR5O25UObbWGSYQOr9IgnXAoQ9pxHDadvTDHddlJKsXKpSK8Ez4kwrzLx24PWodp3TU2X0QYoAq/zufseTiGln/arSbTddpZhta7vR62IrKcjtmHRAeasNkbQBLjoWNCokHdloKAXRXKKgsLU10cVb9qSCcdJewHgk3aFi5B/0LCk+kMEg2j8QQSHkLCy+UHJBos6x0SHkLCn7YNiQaboH8h4bNMBhINhmFAwkNI+LJWgURDrVqGhIeQMDWZdBoSHpEWpkAJ++W+3YKEC9W5F0qFqxX8xaVYyEPCBUU4n7uAhAPVqOGgzeE0wT2TAjThRv0GkhiU1eWgCXM0TYMUXdAP4oMezRjGKWvWb6FFB2qFOUGHZBiyHHThqIMuTHnEioF0FUZdtLq9webRaFAq5RIr5HPQokFYmHII8x0c9rY1kPB/zVOMTcnRwvxjfh5yUxNU/qBw1Fddv+I7haMu+pvzbJZdX9WgtR/P21KcZDkLy4J0mD/CcZP95tjr3hKevy0gxZOn4QjSbn7mcFwr68W+hUy6reVGOEnV5ezzSWyFbdt7T59YYbPv/b8x3XVdiHIQ6MdDnJFzlZYJJZx0lHDSUcLJhrEv+/+7ATxRHgQAAAAASUVORK5CYII=",
-      "createdDate": "2021-05-20 02:00:01",
-      "id": 16,
-      "solorcapacity": "10"
-    }
   ],
   "AdminFeederProfile": [
     {
@@ -349,16 +299,7 @@
       "id": 10
     }
   ],
-  "AdminFeederTechnology": [
-    {
-      "Yearlysolardegradationfactor": "23",
-      "Storageroundtripefciency": "533",
-      "Depthofdischarge": "6t4",
-      "Inverterefciency": "777",
-      "Storagecyclelife": "7897",
-      "id": 2
-    }
-  ],
+  "AdminFeederTechnology": [],
   "AdminFeederVoder": [
     {
     }
