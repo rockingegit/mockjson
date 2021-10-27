@@ -122,44 +122,7 @@
     }
   ],
   "FeederLoadProfile": [
-    {
-      "user": "rock",
-      "name": "testw",
-      "analysislevel": "HT feeder",
-      "substationname": "sub1",
-      "pincode": "1",
-      "feedername": "feeder 1",
-      "feedertype": "Overhead",
-      "feedervoltage": "22 kv",
-      "feederlength": "2",
-      "sanctionedload": "4",
-      "changeinloadyearly": "23",
-      "conductiortype": "Wheasel",
-      "resistance": "23",
-      "carryingcapacitypeak": "43",
-      "Solarcapacity": "56",
-      "Solarinterconnectionlocation": "Middle",
-      "invertercapacitystorage": "77",
-      "storagecapacity": "55",
-      "storageinterconnectionlocation": "Tail end",
-      "storagechargingdischargingstrategy": "During lowest/highest feeder load hours",
-      "avgtransmissionlosses": "34",
-      "analysisperiod": "55",
-      "upperlimitforcapacityupgradation": "66",
-      "loadshiftedafterupgradation": "33",
-      "transmissioncapacitycost": "222",
-      "generationcapacitycost": "1333",
-      "costofcorbon": "4567",
-      "costofno2": "5656",
-      "cosofso2": "556",
-      "costofpm2_5": "867",
-      "Status": false,
-      "published": false,
-      "State": "Pondicherry",
-      "avatar": "",
-      "createdDate": "2021-10-26 09:42:38",
-      "id": 37
-    }
+    
   ],
   "AnalysisLevel": [
     {
@@ -325,6 +288,46 @@
     }
   ],
   "Projects": [
+    {
+      "Title": "mukil prject rock modified 28",
+      "user": "rock",
+      "analysislevel": "HT feeder",
+      "technology": "Solar",
+      "substationname": "sub1",
+      "pincode": "1",
+      "feedername": "feeder 1",
+      "feedertype": "Overhead",
+      "feedervoltage": "22 kv",
+      "feederlength": "2",
+      "sanctionedload": "4",
+      "changeinloadyearly": "23",
+      "conductiortype": "Wheasel",
+      "resistance": "23",
+      "carryingcapacitypeak": "43",
+      "Solarcapacity": "56",
+      "Solarinterconnectionlocation": "Middle",
+      "invertercapacitystorage": "77",
+      "storagecapacity": "55",
+      "storageinterconnectionlocation": "Tail end",
+      "storagechargingdischargingstrategy": "During lowest/highest feeder load hours",
+      "avgtransmissionlosses": "34",
+      "analysisperiod": "55",
+      "upperlimitforcapacityupgradation": "66",
+      "loadshiftedafterupgradation": "33",
+      "transmissioncapacitycost": "222",
+      "generationcapacitycost": "1333",
+      "costofcorbon": "4567",
+      "costofno2": "5656",
+      "cosofso2": "556",
+      "costofpm2_5": "867",
+      "Status": false,
+      "published": true,
+      "State": "Pondicherry",
+      "avatar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA6CAYAAADspTpvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAH7SURBVGhD7ZprT8IwFIa7oQMxcgdvgIT4/3+RwoBPylWRiXEbUnI0Esdl6zlzW/t84W0gzR5O25UObbWGSYQOr9IgnXAoQ9pxHDadvTDHddlJKsXKpSK8Ez4kwrzLx24PWodp3TU2X0QYoAq/zufseTiGln/arSbTddpZhta7vR62IrKcjtmHRAeasNkbQBLjoWNCokHdloKAXRXKKgsLU10cVb9qSCcdJewHgk3aFi5B/0LCk+kMEg2j8QQSHkLCy+UHJBos6x0SHkLCn7YNiQaboH8h4bNMBhINhmFAwkNI+LJWgURDrVqGhIeQMDWZdBoSHpEWpkAJ++W+3YKEC9W5F0qFqxX8xaVYyEPCBUU4n7uAhAPVqOGgzeE0wT2TAjThRv0GkhiU1eWgCXM0TYMUXdAP4oMezRjGKWvWb6FFB2qFOUGHZBiyHHThqIMuTHnEioF0FUZdtLq9webRaFAq5RIr5HPQokFYmHII8x0c9rY1kPB/zVOMTcnRwvxjfh5yUxNU/qBw1Fddv+I7haMu+pvzbJZdX9WgtR/P21KcZDkLy4J0mD/CcZP95tjr3hKevy0gxZOn4QjSbn7mcFwr68W+hUy6reVGOEnV5ezzSWyFbdt7T59YYbPv/b8x3XVdiHIQ6MdDnJFzlZYJJZx0lHDSUcLJhrEv+/+7ATxRHgQAAAAASUVORK5CYII=",
+      "createdDate": "2021-05-20 02:00:01",
+      "id": 16,
+      "solorcapacity": "10"
+    }
   ],
   "AdminFeederProfile": [
     {
@@ -336,6 +339,16 @@
       "Maxacceptablevoltagedeviation": "0",
       "id": 8
     },
+    {
+      "Feedertype": "Overhead",
+      "YearlychangeinloadPerc": "122",
+      "TypeofConductor": "23",
+      "Instancesofpeakviolationforcapacityupgradation": "23",
+      "Minacceptablevoltagedeviation": "23",
+      "Maxacceptablevoltagedeviation": "23",
+      "id": 10
+    }
+  ],
   "AdminFeederTechnology": [
     {
       "Yearlysolardegradationfactor": "23",
@@ -348,23 +361,6 @@
   ],
   "AdminFeederVoder": [
     {
-      "Analysisperiodyears": "1",
-      "Upperlimitforcapacityupgradation": "2",
-      "Percentageofloadshiftedafterupgradation": "3",
-      "Transmissioncapacitycost": "4",
-      "Generationcapacitycost": "5",
-      "Overhead": "6",
-      "Underground": "7",
-      "Discountfactor": "8",
-      "Co2Rate": "9",
-      "So2Rate": "10",
-      "No2Rate": "11",
-      "PM2_5Rate": "12",
-      "Co2Cost": "13",
-      "So2Cost": "14",
-      "No2Cost": "15",
-      "PM2_5Cost": "16",
-      "id": 1
     }
   ]
 }
